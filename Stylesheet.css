@@ -1,16 +1,16 @@
 body{
 	background-color: black;
-	background-repeat:repeat-y;
 	background-size: 100%;
+	background-attachment: fixed;
 }
 .index{
-	background-image: url(Images/Capricorn.png);
+	background-image: url(Images/Capricorn.jpg);
 }
 .Contact{
-	background-image: url(Images/Virgo.png);
+	background-image: url(Images/Virgo.jpg);
 }
 .About{
-	background-image: url(Images/Gemini.png);
+	background-image: url(Images/Gemini.jpg);
 }
 
 table{	
