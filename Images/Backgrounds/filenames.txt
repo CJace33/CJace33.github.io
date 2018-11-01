@@ -1,0 +1,13 @@
+Aquarius.jpg
+Aries.jpg
+Cancer.jpg
+Capricorn.jpg
+filenames.txt
+Gemini.jpg
+Leo.jpg
+Libra.jpg
+Pisces.jpg
+Sagittarius.jpg
+Scorpio.jpg
+Taurus.jpg
+Virgo.jpg
